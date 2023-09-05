@@ -8,26 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-Hello there, I'm JIANG Chenxing (蒋辰星), currently a Ph.D. student at [Aerial Robotics Group](https://uav.hkust.edu.hk/) of [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) (2022-Present) ,supervised by Prof. [SHEN Shaojie](https://scholar.google.com.hk/citations?user=u8Q0_xsAAAAJ&hl=zh-CN&oi=ao). I received my bachelor degree (2018-2022) at [Zhejiang University](https://www.zju.edu.cn/english/), majoring in Automation, [College of Control Science and Engineering](http://www.cse.zju.edu.cn/cseenglish/main.htm) and minoring in the ITP (Intensive Training Program of Innovation and Entrepreneurship), [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/). Previously, I joined the [ZJU Fast Lab](http://zju-fast.com/) as an research assistent, supervised by Prof. [GAO Fei](https://person.zju.edu.cn/fgaoaa) and worked as an intern at the Autonomous Driving Lab, [Alibaba DAMO Academy](https://damo.alibaba.com/) .
+Hello there, I'm JIANG Chenxing (蒋辰星), currently a Ph.D. student at [Aerial Robotics Group](https://uav.hkust.edu.hk/) of [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) (2022-Present), supervised by Prof. [SHEN Shaojie](https://scholar.google.com.hk/citations?user=u8Q0_xsAAAAJ&hl=zh-CN&oi=ao). I received my bachelor degree (2018-2022) at [Zhejiang University](https://www.zju.edu.cn/english/), majoring in Automation, [College of Control Science and Engineering](http://www.cse.zju.edu.cn/cseenglish/main.htm) and minoring in the ITP (Intensive Training Program of Innovation and Entrepreneurship), [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/). Previously, I joined the [ZJU Fast Lab](http://zju-fast.com/) as an research assistant, supervised by Prof. [GAO Fei](https://person.zju.edu.cn/fgaoaa) and worked as an intern at the Autonomous Driving Lab, [Alibaba DAMO Academy](https://damo.alibaba.com/).
 
 My research interests include the areas of robotics and machine learning, with focus on 
-* implicit mapping
-* state estimation
-* computer vision
+* Implicit Mapping
+* State Estimation
+* Computer Vision
 
-I am always open to potential collaborations, please feel free to contact me at cjiangan@connect.ust.hk :)
+I am always open to potential collaborations, please feel free to contact me at <cjiangan@connect.ust.hk> :)
 
 Education
 ======
-* Ph.D., Hong Kong University of Science and Technology, 2022 - Present
+* Ph.D. The Hong Kong University of Science and Technology, 2022 - Present
   * Department of Electronic and Computer Engineering
 
-* B.S. Automation, Zhejiang University, 2018 - 2022
+* B.S. Zhejiang University, 2018 - 2022
   * Department of Automation, College of Control Science and Engineering
   
 Selected Honors
 ======
-* **Hong Kong PhD Fellowship Scheme (HKPFS)**, Hong Kong SAR
+* **Hong Kong PhD Fellowship Scheme (HKPFS)**, 2022, Hong Kong SAR
 * **Outstanding Graduates of Zhejiang Province**, 2022, Zhejiang Provincial Department of Education
 * **Outstanding Graduates of Zhejiang University**, 2022, Zhejiang University
 * **National Scholarship**, 2019, 2021, Ministry of Education of P.R. China

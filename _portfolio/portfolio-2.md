@@ -7,16 +7,15 @@ excerpt: "We digitally reproduced the process of design creation and visual pres
 The knowledge base in this study is the Qiushi seal-carving database, which consists of open datasets of images of seal characters and seal stamps. We proposed a seal character-generation method based on visual knowledge and guided by the database and expertise. Further, to create the layout of the seal, we proposed a deformation algorithm to adjust the seal characters and calculate layout parameters from the database and knowledge to achieve an intelligent structure.
 
 I took part in this research group as an RA in 2020 and shoulder the task to build Qiushi seal-carving database and generate four fonts（方笔汉印、圆笔汉印、汉细朱、汉满白、仿东吴纪功碑）.
- <div align=center >
+ <br>
 <img src='/images/seal.gif' width='500'>
- </div>
 "
 collection: portfolio
 ---
 
 We digitally reproduced the process of design creation and visual presentation of Chinese seal-carving art. 
-[Zhejiang University Intelligent seal-carving System](http://www.next.zju.edu.cn/seal/)
-[Seal-carving search and layout system](http://www.next.zju.edu.cn/seal/search_app/)
+* [Zhejiang University Intelligent seal-carving System](http://www.next.zju.edu.cn/seal/) 
+* [Seal-carving search and layout system](http://www.next.zju.edu.cn/seal/search_app/) 
 
 The knowledge base in this study is the Qiushi seal-carving database, which consists of open datasets of images of seal characters and seal stamps. We proposed a seal character-generation method based on visual knowledge and guided by the database and expertise. Further, to create the layout of the seal, we proposed a deformation algorithm to adjust the seal characters and calculate layout parameters from the database and knowledge to achieve an intelligent structure.
 

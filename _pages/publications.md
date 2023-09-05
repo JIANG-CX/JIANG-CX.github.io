@@ -19,8 +19,8 @@ author_profile: true
               <br>
               <em>IEEE Robotics and Automation Letters, 2023.</em><br>
               <a href="https://arxiv.org/abs/2306.03207">paper</a> /
-              <a href="https://github.com/SYSU-STAR/H2-Mapping">code</a>
-              <a href="https://youtu.be/oR9MlfL86Vw">video (Youtube)</a>
+              <a href="https://github.com/SYSU-STAR/H2-Mapping">code</a> /
+              <a href="https://youtu.be/oR9MlfL86Vw">video (Youtube)</a> /
               <a href="https://www.bilibili.com/video/BV1Ku411W7j2">video (Bilibili)</a>
             </td>
           </tr>
@@ -34,11 +34,11 @@ author_profile: true
                 <papertitle>WING: Wheel-Inertial-Neural Odometry with Ground Manifold Constraints
                 </papertitle>
               <br>
-                <strong>Kunyi Zhang, Chenxing Jiang (co-first)</strong>, Sheng Yang, Shaojie Shen, Chao Xu, Fei Gao
+                <strong>Kunyi Zhang, </strong>Chenxing Jiang (co-first)</strong>, Sheng Yang, Shaojie Shen, Chao Xu, Fei Gao
               <br>
               <em>Submitted to IEEE Transactions on Intelligent Transportation Systems, 2023.</em><br>
-              <a href="WING_ Wheel-Inertial-Neural Odometry with Ground Manifold Constraints.pdf">paper</a> /
-              <a href="https://github.com/zhangkunyi/zhangkunyi.github.io/blob/main/paper/ICRA2023_KyZhang.mp4">video</a> /
+              <a href="https://github.com/JIANG-CX/jiang-cx.github.io/blob/master/paper/WING_ Wheel-Inertial-Neural Odometry with Ground Manifold Constraints.pdf">paper</a> /
+              <a href="https://github.com/zhangkunyi/zhangkunyi.github.io/blob/main/paper/ICRA2023_KyZhang.mp4">video</a> 
             </td>
           </tr>
     </table>
@@ -51,7 +51,7 @@ author_profile: true
                 <papertitle>DIDO:Deep Inertial Quadrotor Dynamical Odometry
                 </papertitle>
               <br>
-                <strong>Kunyi Zhang, Chenxing Jiang (co-first)</strong>, Jinghang Li, Sheng Yang, Teng Ma, Chao Xu, Fei Gao
+                <strong>Kunyi Zhang, </strong>Chenxing Jiang (co-first)</strong>, Jinghang Li, Sheng Yang, Teng Ma, Chao Xu, Fei Gao
               <br>
               <em>IEEE Robotics and Automation Letters, 2022.</em><br>
               <a href="https://ieeexplore.ieee.org/document/9817624">paper</a> /
