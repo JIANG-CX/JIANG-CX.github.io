@@ -33,10 +33,10 @@ Selected Honors
 * **National Scholarship**, 2019, 2021, Ministry of Education of P.R. China
 * **Zhejiang University Scholarship-First Prize (top 3%)**, 2019, 2020, 2021, Zhejiang University
 * **Outstanding student**, 2019, 2020, 2021, Zhejiang University
-* **SUPCON Scholarship**, 2020
-* **National gold award of The 6th China International College Students“Internet+” Innovation and Entrepreneurship Competition**, 2020
-* **National gold award of The 12th ‘Challenge Cup’ College Students Entrepreneurship Plan Competition**, 2020
-* **Honorable Mention of 2020 Mathematical Contest In Modeling**, 2020
+* **SUPCON Scholarship**, 2020, Zhejiang University
+* **National gold award of The 6th China International College Students“Internet+” Innovation and Entrepreneurship Competition**, 2020, Ministry of Education of P.R. China
+* **National gold award of The 12th ‘Challenge Cup’ College Students Entrepreneurship Plan Competition**, 2020, Ministry of Education of P.R. China
+* **Honorable Mention of 2020 Mathematical Contest In Modeling**, 2020, COMAP
 
 Community Services
 ======
