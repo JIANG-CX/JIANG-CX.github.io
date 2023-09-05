@@ -9,17 +9,19 @@ author_profile: true
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-              <img src="../images/g3reg_teaser.png" alt="hpp" style="border-style: none" >
+              <img src="../images/h2mapping.jpg" alt="hpp" style="border-style: none" >
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <papertitle>G3Reg: Pyramid Graph-based Global Registration using Gaussian Ellipsoid Model
+                <papertitle>H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation
                 </papertitle>
               <br>
-                <strong>Zhijian Qiao</strong>, Zehuan Yu, Binqian Jiang, Huan Yin, and Shaojie Shen
+                <strong>Chenxing JIANG</strong>, Hanwen Zhang, Peize Liu, Zehuan Yu, Hui Cheng, Boyu Zhou, Shaojie Shen
               <br>
-              <em>Under review.</em><br>
-              <a href="https://arxiv.org/abs/2308.11573">arxiv</a> /
-              <a href="https://github.com/HKUST-Aerial-Robotics/G3Reg">code</a>
+              <em>IEEE Robotics and Automation Letters.</em><br>
+              <a href="https://arxiv.org/abs/2306.03207">arxiv</a> /
+              <a href="https://github.com/SYSU-STAR/H2-Mapping">code</a>
+              <a href="https://youtu.be/oR9MlfL86Vw">video (Youtube)</a>
+              <a href="https://www.bilibili.com/video/BV1Ku411W7j2">video (Bilibili)</a>
             </td>
           </tr>
     </table>
