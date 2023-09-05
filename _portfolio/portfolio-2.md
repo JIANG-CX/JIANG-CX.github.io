@@ -1,8 +1,6 @@
 ---
 title: "Intelligent Seal-Carving Art-Generation System"
-excerpt: "We digitally reproduced the process of design creation and visual presentation of Chinese seal-carving art. 
-* [Zhejiang University Intelligent seal-carving System](http://www.next.zju.edu.cn/seal/) 
-* [Seal-carving search and layout system](http://www.next.zju.edu.cn/seal/search_app/) 
+excerpt: "We digitally reproduced the process of design creation and visual presentation of Chinese seal-carving art ([Zhejiang University Intelligent seal-carving System](http://www.next.zju.edu.cn/seal/), [Seal-carving search and layout system](http://www.next.zju.edu.cn/seal/search_app/)).
 
 The knowledge base in this study is the Qiushi seal-carving database, which consists of open datasets of images of seal characters and seal stamps. We proposed a seal character-generation method based on visual knowledge and guided by the database and expertise. Further, to create the layout of the seal, we proposed a deformation algorithm to adjust the seal characters and calculate layout parameters from the database and knowledge to achieve an intelligent structure.
 
