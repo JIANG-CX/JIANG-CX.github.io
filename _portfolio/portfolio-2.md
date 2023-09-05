@@ -1,27 +1,27 @@
 ---
-title: "Tightly-coupled Visual-Inertial-Wheel Odometry for Ground Robot"
-excerpt: "VINS has additional unobservable directions for localizing wheeled robots such as scale when a ground robot is constrained to particular motion. Furthermore, accelerometer measurements on the ground robot are greatly affected by noise compared to those on the aerial robot. For these considerations, Wheel measurements are integrated into VINS, where we reference some excellent open-source codes(such as [VIW-Fusion](https://github.com/TouchDeeper/VIW-Fusion/)) and implement wheel odometer pre-integration, residuals and extrinsic parameters calibration. On the other hand, GPU-accelerated feature extraction and optical flow methods are integrated into the system to accelerate the front end. The optimization in the back end is also improved to detect and remove(or reduce weights) the outliers of IMU and wheel pre-integrations and visual measurements. [Fast-LIO2](https://github.com/hku-mars/FAST_LIO) is also integrated based on a factor graph. Furthermore, the Sparsification for graph optimization is on the to-do list.
-<br/>
-<br/>
-<img src='/images/grass-demo.gif' width='500'>
+title: "Intelligent Seal-Carving Art-Generation System"
+excerpt: "We digitally reproduced the process of design creation and visual presentation of Chinese seal-carving art. 
+[Zhejiang University Intelligent seal-carving System](http://www.next.zju.edu.cn/seal/)
+[Seal-carving search and layout system](http://www.next.zju.edu.cn/seal/search_app/)
+
+The knowledge base in this study is the Qiushi seal-carving database, which consists of open datasets of images of seal characters and seal stamps. We proposed a seal character-generation method based on visual knowledge and guided by the database and expertise. Further, to create the layout of the seal, we proposed a deformation algorithm to adjust the seal characters and calculate layout parameters from the database and knowledge to achieve an intelligent structure.
+
+I took part in this research group as an RA in 2020 and shoulder the task to build Qiushi seal-carving database and generate four fonts（方笔汉印、圆笔汉印、汉细朱、汉满白、仿东吴纪功碑）.
+ <div align=center >
+<img src='/images/seal.gif' width='500'>
+ </div>
 "
 collection: portfolio
 ---
 
-VINS has additional unobservable directions for localizing wheeled robots, such as scale when a ground robot is constrained to a particular motion. Furthermore, accelerometer measurements on the ground robot are greatly affected by noise compared to those on the aerial robot. For these considerations, Wheel measurements are integrated into VINS, where we reference some excellent open-source codes(such as [VIW-Fusion](https://github.com/TouchDeeper/VIW-Fusion/)) and implement wheel odometer pre-integration, residuals, and extrinsic parameters calibration. On the other hand, GPU-accelerated feature extraction and optical flow methods are integrated into the system to accelerate the front end. The optimization in the back end is also improved to detect and remove(or reduce weights) the outliers of IMU and wheel pre-integrations and visual measurements. [Fast-LIO2](https://github.com/hku-mars/FAST_LIO) is also integrated based on a factor graph. Furthermore, the Sparsification for graph optimization is on the to-do list.
+We digitally reproduced the process of design creation and visual presentation of Chinese seal-carving art. 
+[Zhejiang University Intelligent seal-carving System](http://www.next.zju.edu.cn/seal/)
+[Seal-carving search and layout system](http://www.next.zju.edu.cn/seal/search_app/)
 
-VINS on wheel visualization.
+The knowledge base in this study is the Qiushi seal-carving database, which consists of open datasets of images of seal characters and seal stamps. We proposed a seal character-generation method based on visual knowledge and guided by the database and expertise. Further, to create the layout of the seal, we proposed a deformation algorithm to adjust the seal characters and calculate layout parameters from the database and knowledge to achieve an intelligent structure.
+
+I took part in this research group as an RA in 2020 and shoulder the task to build Qiushi seal-carving database and generate four fonts（方笔汉印、圆笔汉印、汉细朱、汉满白、仿东吴纪功碑）.
+
  <div align=center >
-     <img src="/images/viw.gif" width="700"/>
- </div>
- <div align=center >
-     <img src="/images/grass-demo.gif" width="700"/>
- </div>
- <div align=center >
-     <img src="/images/grass-shadow.gif" width="700"/>
- </div>
- <br/>
- Fusion with Fast-LIO2 based on a factor graph.
- <div align=center >
-     <img src="/images/lviw.gif" width="700"/>
+<img src='/images/seal.gif' width='500'>
  </div>

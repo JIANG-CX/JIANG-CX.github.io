@@ -1,17 +1,22 @@
 ---
-title: "Semantic VSLAM System with Inertial, Wheel, and Surround-view Sensors for Autonomous Indoor Parking"
-excerpt: "Feature-based VSLAM often suffers from perspective and illumination change in GPS-denied parking lots. To this end, we use semantic features extracted from surround-view cameras to achieve long-term stable and robust localization. Thanks to accurate multi-camera calibration and IPM(Inverse Perspective Mapping), semantic features on the surround-view image can be projected on the ground to construct a more stable and consistent feature submap. In the back end, on the basis of the original tightly-coupled optimization consisting of IMU, wheel, and visual measurement, semantic features are added in a way similar to point-to-point residuals. At last, loop closure is detected to eliminate drift.
-<br/>
-<br/>
-<img src='/images/avp-slam.gif' width='500'>
+title: "UAV For Offside Decision in Soccer Competition"
+excerpt: "As VAR (Video Assistant Referee) is manual and VAR or high-quality referee is expensive for low-level matches. This project provides a new idea of assisting offside judgment by using the UAV’s top view perspective. In this project, the UAV can fly automatically to track the players and ball to make offside decision with high accuracy and real-time. The main structure are three parts, PC, android app with DJI mobile SDK, and the DJI Mavic Air2. Owing to the fact that DJI Mavic Air2 is not open source, we develop an Android app with DJI Mobile SDK as a relay station which send the motion command from PC to control UAV as well as send the image of UAV to PC.
+ <div align=center >
+<img src='/images/UAV For Offside Decision in Soccer Competition/offside1.gif' width='500'>
+ </div>
 "
 collection: portfolio
 ---
 
 Semantic VSLAM System with Inertial, Wheel, and Surround-view Sensors for Autonomous Indoor Parking"
-excerpt: "Feature-based VSLAM often suffers from perspective and illumination change in GPS-denied parking lots. To this end, we use semantic features extracted from surround-view cameras to achieve long-term stable and robust localization. Thanks to accurate multi-camera calibration and IPM(Inverse Perspective Mapping), semantic features on the surround-view image can be projected on the ground to construct a more stable and consistent feature submap. In the back end, on the basis of the original tightly-coupled optimization consisting of IMU, wheel, and visual measurement, semantic features are added in a way similar to point-to-point residuals. At last, loop closure is detected to eliminate drift.
-<br/>
-<br/>
-<img src='/images/avp-slam.gif' width='500'>
-<img src='/images/avp.gif' width='500'>
-<img src='/images/avp-planning.gif' width='500'>
+excerpt: As VAR (Video Assistant Referee) is manual and VAR or high-quality referee is expensive for low-level matches. This project provides a new idea of assisting offside judgment by using the UAV’s top view perspective. In this project, the UAV can fly automatically to track the players and ball to make offside decision with high accuracy and real-time.
+ <div align=center >
+<img src='/images/UAV For Offside Decision in Soccer Competition/offside1.gif' width='500'>
+ </div>
+ <div align=center >
+<img src='/images/UAV For Offside Decision in Soccer Competition/offside2.gif' width='500'>
+ </div>
+The main structure are three parts, PC, android app with DJI mobile SDK, and the DJI Mavic Air2. Owing to the fact that DJI Mavic Air2 is not open source, we develop an Android app with DJI Mobile SDK as a relay station which send the motion command from PC to control UAV as well as send the image of UAV to PC.
+ <div align=center >
+<img src='/images/UAV For Offside Decision in Soccer Competition/pipeline.png' width='500'>
+ </div>
