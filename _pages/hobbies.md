@@ -14,5 +14,5 @@ I have a deep passion for Chinese traditional arts, particularly Chinese calligr
  </div>
 <br>
  <div align=center >
-<img src='/images/calligraphy/1 (3).jpg' width='500'>
+<img src='/images/calligraphy/1 (3).JPG' width='500'>
  </div>
