@@ -37,7 +37,7 @@ author_profile: true
                 <strong>Kunyi Zhang, </strong>Chenxing Jiang (co-first)</strong>, Sheng Yang, Shaojie Shen, Chao Xu, Fei Gao
               <br>
               <em>Submitted to IEEE Transactions on Intelligent Transportation Systems, 2023.</em><br>
-              <a href="https://github.com/JIANG-CX/jiang-cx.github.io/blob/master/paper/WING_ Wheel-Inertial-Neural Odometry with Ground Manifold Constraints.pdf">paper</a> /
+              <a href="https://github.com/JIANG-CX/jiang-cx.github.io/blob/master/paper/WING_Wheel-Inertial-Neural_Odometry_with_Ground_Manifold_Constraints.pdf">paper</a> /
               <a href="https://github.com/zhangkunyi/zhangkunyi.github.io/blob/main/paper/ICRA2023_KyZhang.mp4">video</a> 
             </td>
           </tr>
