@@ -11,9 +11,9 @@ title: "Zhijian's Website"
 title_separator: "-"
 name: &name "Zhijian Qiao (乔志健)"
 description: &description "Ph.D. student in HKUST Aerial Robotics Group"
-url: https://JIANG-CX.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://jiang-cx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "JIANG-CX/JIANG-CX.github.io"
+repository: "JIANG-CX/jiang-cx.github.io"
 teaser:  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 words_per_minute: 160
