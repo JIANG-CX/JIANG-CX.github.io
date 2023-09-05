@@ -18,10 +18,10 @@ author_profile: true
                 <strong>Chenxing JIANG</strong>, Hanwen Zhang, Peize Liu, Zehuan Yu, Hui Cheng, Boyu Zhou, Shaojie Shen
               <br>
               <em>IEEE Robotics and Automation Letters, 2023.</em><br>
-              <a href="https://arxiv.org/abs/2306.03207">paper</a> /
-              <a href="https://github.com/SYSU-STAR/H2-Mapping">code</a> /
-              <a href="https://youtu.be/oR9MlfL86Vw">video (Youtube)</a> /
-              <a href="https://www.bilibili.com/video/BV1Ku411W7j2">video (Bilibili)</a>
+              <a href="https://arxiv.org/abs/2306.03207">Paper</a> /
+              <a href="https://github.com/SYSU-STAR/H2-Mapping">Code</a> /
+              <a href="https://youtu.be/oR9MlfL86Vw">Video (Youtube)</a> /
+              <a href="https://www.bilibili.com/video/BV1Ku411W7j2">Video (Bilibili)</a>
             </td>
           </tr>
     </table>
@@ -37,8 +37,8 @@ author_profile: true
                 Kunyi Zhang, <strong>Chenxing Jiang (co-first)</strong>, Sheng Yang, Shaojie Shen, Chao Xu, Fei Gao
               <br>
               <em>Submitted to IEEE Transactions on Intelligent Transportation Systems, 2023.</em><br>
-              <a href="https://github.com/JIANG-CX/jiang-cx.github.io/blob/master/paper/WING_Wheel-Inertial-Neural_Odometry_with_Ground_Manifold_Constraints.pdf">paper</a> /
-              <a href="https://github.com/zhangkunyi/zhangkunyi.github.io/blob/main/paper/ICRA2023_KyZhang.mp4">video</a> 
+              <a href="https://github.com/JIANG-CX/jiang-cx.github.io/blob/master/paper/WING_Wheel-Inertial-Neural_Odometry_with_Ground_Manifold_Constraints.pdf">Paper</a> /
+              <a href="https://github.com/zhangkunyi/zhangkunyi.github.io/blob/main/paper/ICRA2023_KyZhang.mp4">Video</a> 
             </td>
           </tr>
     </table>
@@ -54,9 +54,9 @@ author_profile: true
                 Kunyi Zhang, <strong>Chenxing Jiang (co-first)</strong>, Jinghang Li, Sheng Yang, Teng Ma, Chao Xu, Fei Gao
               <br>
               <em>IEEE Robotics and Automation Letters, 2022.</em><br>
-              <a href="https://ieeexplore.ieee.org/document/9817624">paper</a> /
-              <a href="https://github.com/zhangkunyi/DIDO/">code</a> /
-              <a href="https://www.bilibili.com/video/BV1dU4y1Z773?spm_id_from=333.999.0.0">video (Bilibili)</a>
+              <a href="https://ieeexplore.ieee.org/document/9817624">Paper</a> /
+              <a href="https://github.com/zhangkunyi/DIDO/">Code</a> /
+              <a href="https://www.bilibili.com/video/BV1dU4y1Z773?spm_id_from=333.999.0.0">Video (Bilibili)</a>
             </td>
           </tr>
     </table>
