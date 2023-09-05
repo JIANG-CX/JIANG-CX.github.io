@@ -8,33 +8,36 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student at HKUST [Aerial Robotics Group](https://uav.hkust.edu.hk/) advised by Prof. [Shaojie Shen](https://scholar.google.com.hk/citations?user=u8Q0_xsAAAAJ&hl=zh-CN&oi=ao). Previously, I obtained my master's degree from Shanghai Jiao Tong University at [IRMV Lab](http://irmv.sjtu.edu.cn/), where I was advised by Prof. [Hesheng Wang](http://irmv.sjtu.edu.cn/wanghesheng).
+Hello there, I'm JIANG Chenxing (蒋辰星), currently a Ph.D. student at [Aerial Robotics Group](https://uav.hkust.edu.hk/) of [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) (2022-Present) ,supervised by Prof. [SHEN Shaojie](https://scholar.google.com.hk/citations?user=u8Q0_xsAAAAJ&hl=zh-CN&oi=ao). I received my bachelor degree (2018-2022) at [Zhejiang University](https://www.zju.edu.cn/english/), majoring in Automation, [College of Control Science and Engineering](http://www.cse.zju.edu.cn/cseenglish/main.htm) and minoring in the ITP (Intensive Training Program of Innovation and Entrepreneurship), [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/). Previously, I joined the [ZJU Fast Lab](http://zju-fast.com/) as an research assistent, supervised by Prof. [GAO Fei](https://person.zju.edu.cn/fgaoaa) and worked as an intern at the Autonomous Driving Lab, [Alibaba DAMO Academy](https://damo.alibaba.com/) .
 
-My research interests include the areas of robotics and autonomous driving, with focus on state estimation, localization and mapping and computer vision.
+My research interests include the areas of robotics and machine learning, with focus on 
+* implicit mapping
+* state estimation
+* computer vision
 
-If you have any exciting ideas or cooperation intentions, please feel free to contact me at zqiaoac@connect.ust.hk :)
+I am always open to potential collaborations, please feel free to contact me at cjiangan@connect.ust.hk :)
 
 Education
 ======
 * Ph.D., Hong Kong University of Science and Technology, 2022 - Present
   * Department of Electronic and Computer Engineering
-  
-* M.S. Control Engineering, Shanghai Jiao Tong University, 2019 - 2022
-  * Department of Automation, School of Electronics, Information and Electrical Engineering 
 
-* B.S. Automation, Northeastern University(China), 2015 - 2019
-  * Department of Automation, College of Information Science and Engineering
+* B.S. Automation, Zhejiang University, 2018 - 2022
+  * Department of Automation, College of Control Science and Engineering
   
 Selected Honors
 ======
-* **Outstanding Graduates**, 2022, SJTU
-* **Most Influential Graduates**, 2019, NEU
-* **Champion**, the 17th China University Robot Competition, 2018 [[link]](http://www.cnrobocon.net/#/)
-* **Runner-up**, The ABU Asia-Pacific Robot Contest, 2018 [[link]](https://en.wikipedia.org/wiki/ABU_Robocon)
-* **Champion**, the 16th China University Robot Competition, 2017 [[link]](http://www.cnrobocon.net/#/)
-* **Best Engineering**, The ABU Asia-Pacific Robot Contest, 2017 [[link]](http://www.aburobocon.net/)
+* **Hong Kong PhD Fellowship Scheme (HKPFS)**, Hong Kong SAR
+* **Outstanding Graduates of Zhejiang Province**, 2022, Zhejiang Provincial Department of Education
+* **Outstanding Graduates of Zhejiang University**, 2022, Zhejiang University
+* **National Scholarship**, 2019, 2021, Ministry of Education of P.R. China
+* **Zhejiang University Scholarship-First Prize (top 3%)**, 2019, 2020, 2021, Zhejiang University
+* **Outstanding student**, 2019, 2020, 2021, Zhejiang University
+* **SUPCON Scholarship**, 2020
+* **National gold award of The 6th China International College Students“Internet+” Innovation and Entrepreneurship Competition**, 2020
+* **National gold award of The 12th ‘Challenge Cup’ College Students Entrepreneurship Plan Competition**, 2020
+* **Honorable Mention of 2020 Mathematical Contest In Modeling**, 2020
 
 Community Services
 ======
-* Conference reviewer: ICRA, IROS, ROBIO
-* Journal reviewer: T-ASE
+* Conference reviewer: IROS
