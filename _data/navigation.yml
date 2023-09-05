@@ -9,6 +9,9 @@ main:
   - title: "Projects"
     url: /portfolio/
 
+  - title: "Hobbies"
+    url: /hobbies/
+
   # - title: "Highlight"
   #   url: /talks/
 #  - title: "Blog Posts"
