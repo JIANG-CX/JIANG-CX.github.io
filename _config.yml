@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "JIANG Chenxing's Website"
 title_separator          : "-"
-name                     : &name "JIANG Chenxing \n (蒋辰星)"
+name                     : &name "JIANG Chenxing (蒋辰星)"
 description              : &description "Ph.D. student in HKUST Aerial Robotics Group"
 url                      : https://jiang-cx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
