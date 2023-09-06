@@ -51,7 +51,7 @@ author_profile: true
                 <papertitle>DIDO:Deep Inertial Quadrotor Dynamical Odometry
                 </papertitle>
               <br>
-                Kunyi Zhang, <strong>Chenxing Jiang (co-first)</strong>, Jinghang Li, Sheng Yang, Teng Ma, Chao Xu, Fei Gao
+                Kunyi Zhang, <strong>Chenxing Jiang</strong>, Jinghang Li, Sheng Yang, Teng Ma, Chao Xu, Fei Gao
               <br>
               <em>IEEE Robotics and Automation Letters, 2022.</em><br>
               <a href="https://ieeexplore.ieee.org/document/9817624">Paper</a> /
