@@ -61,3 +61,5 @@ author_profile: true
           </tr>
     </table>
 </html>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=W25Fdb-NQUH1UObkKuunx_1va-9MG_ZujLrO3eIij5c'></script>

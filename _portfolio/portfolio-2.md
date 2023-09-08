@@ -23,3 +23,5 @@ I took part in this research group as an RA in 2020 and shoulder the task to bui
  <div align=center >
 <img src='/images/seal.gif' width='500'>
  </div>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=W25Fdb-NQUH1UObkKuunx_1va-9MG_ZujLrO3eIij5c'></script>
