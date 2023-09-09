@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JIANG Chenxing's Website"
+title                    : "Chenxing's Website"
 title_separator          : "-"
 name                     : &name "JIANG Chenxing (蒋辰星)"
 description              : &description "Ph.D. student in HKUST Aerial Robotics Group"
