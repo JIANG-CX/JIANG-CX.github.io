@@ -18,7 +18,8 @@ author_profile: true
                 <strong>Chenxing JIANG</strong>, Hanwen Zhang, Peize Liu, Zehuan Yu, Hui Cheng, Boyu Zhou, Shaojie Shen
               <br>
               <em>IEEE Robotics and Automation Letters, 2023.</em><br>
-              <a href="https://arxiv.org/abs/2306.03207">Paper</a> /
+              <a href="https://ieeexplore.ieee.org/document/10243098">Paper</a> /
+              <a href="https://arxiv.org/abs/2306.03207">Arxiv</a> /
               <a href="https://github.com/SYSU-STAR/H2-Mapping">Code</a> /
               <a href="https://youtu.be/oR9MlfL86Vw">Video (Youtube)</a> /
               <a href="https://www.bilibili.com/video/BV1Ku411W7j2">Video (Bilibili)</a>
