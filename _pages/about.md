@@ -24,7 +24,12 @@ Education
   * Department of Electronic and Computer Engineering
 
 * B.S. Zhejiang University, 2018 - 2022
-  * Department of Automation, College of Control Science and Engineering
+  * Major: Automation, College of Control Science and Engineering
+  * Minor: Intensive Training Program of Innovation and Entrepreneurship (ITP), Chu Kochen Honors College
+
+Internship
+======
+* Autonomous Driving Lab, Alibaba DAMO Academy
   
 Selected Honors
 ======
