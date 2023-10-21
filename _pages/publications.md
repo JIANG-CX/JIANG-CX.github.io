@@ -56,6 +56,7 @@ author_profile: true
               <br>
               <em>IEEE Robotics and Automation Letters, 2022.</em><br>
               <a href="https://ieeexplore.ieee.org/document/9817624">Paper</a> /
+              <a href="https://arxiv.org/abs/2203.03149">Arxiv</a> /
               <a href="https://github.com/zhangkunyi/DIDO/">Code</a> /
               <a href="https://www.bilibili.com/video/BV1dU4y1Z773?spm_id_from=333.999.0.0">Video (Bilibili)</a>
             </td>
