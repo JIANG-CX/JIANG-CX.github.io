@@ -26,7 +26,7 @@ author_profile: true
             </td>
           </tr>
     </table>
-    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+    <!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
               <img src="../images/wing.png" alt="hpp" style="border-style: none" >
@@ -42,7 +42,7 @@ author_profile: true
               <a href="https://github.com/zhangkunyi/zhangkunyi.github.io/blob/main/paper/ICRA2023_KyZhang.mp4">Video</a> 
             </td>
           </tr>
-    </table>
+    </table> -->
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
