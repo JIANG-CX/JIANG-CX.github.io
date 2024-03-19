@@ -9,6 +9,26 @@ author_profile: true
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/h3mapping.png" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle>H3-Mapping: Quasi-Heterogeneous Feature Grids for Real-time Dense Mapping Using Hierarchical Hybrid Representation
+                </papertitle>
+              <br>
+                <strong>Chenxing JIANG</strong>, Yiming Luo, Boyu Zhou, Shaojie Shen
+              <br>
+              <em>Submitted to IEEE Robotics and Automation Letters, 2024.</em><br>
+              <!-- <a href="https://ieeexplore.ieee.org/document/10243098">Paper</a> / -->
+              <a href="https://arxiv.org/abs/2403.10821">Arxiv</a> /
+              <a href="https://github.com/SYSU-STAR/H3-Mapping">Code</a> /
+              <a href="https://youtu.be/VtQGvuDZSec">Video (Youtube)</a> /
+              <a href="https://www.bilibili.com/video/BV1By421v7S8">Video (Bilibili)</a>
+            </td>
+          </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
               <img src="../images/h2mapping.jpg" alt="hpp" style="border-style: none" >
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
