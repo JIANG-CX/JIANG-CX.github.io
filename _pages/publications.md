@@ -42,7 +42,7 @@ author_profile: true
               <a href="https://arxiv.org/abs/2306.03207">Arxiv</a> /
               <a href="https://github.com/SYSU-STAR/H2-Mapping">Code</a> /
               <a href="https://youtu.be/oR9MlfL86Vw">Video (Youtube)</a> /
-              <a href="https://www.bilibili.com/video/BV1Ku411W7j2">Video (Bilibili)</a>
+              <a href="https://www.bilibili.com/video/BV1Ku411W7j2">Video (Bilibili)</a> /
               <a href="https://drive.google.com/file/d/1_3_lrniZDIiH1B2F-hmgppPkYpbj0ZHW/view?usp=sharing">Revision</a>
             </td>
           </tr>
