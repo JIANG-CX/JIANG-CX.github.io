@@ -19,10 +19,10 @@ author_profile: true
               <br>
               <em>Submitted to IEEE Robotics and Automation Letters, 2024.</em><br>
               <!-- <a href="https://ieeexplore.ieee.org/document/10243098">Paper</a> / -->
-              <a href="https://arxiv.org/abs/2403.10821">Arxiv</a> /
-              <a href="https://github.com/SYSU-STAR/H3-Mapping">Code</a> /
-              <a href="https://youtu.be/VtQGvuDZSec">Video (Youtube)</a> /
-              <a href="https://www.bilibili.com/video/BV1By421v7S8">Video (Bilibili)</a>
+              <a href="https://arxiv.org/abs/2403.10821"><img src="https://img.shields.io/badge/ArXiv-2403.10821-004088.svg"/></a>
+              <a href="https://github.com/SYSU-STAR/H3-Mapping/stargazers"><img alt="Code" src="https://img.shields.io/github/stars/SYSU-STAR/H3-Mapping" /></a>
+              <a href="https://youtu.be/VtQGvuDZSec"><img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/></a>
+              <a href="https://www.bilibili.com/video/BV1By421v7S8"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a>
             </td>
           </tr>
     </table>
@@ -41,7 +41,7 @@ author_profile: true
               <a href="https://ieeexplore.ieee.org/document/10243098"><img src="https://img.shields.io/badge/Paper-IEEE RAL-004088.svg"/></a>
               <a href="https://arxiv.org/abs/2306.03207"><img src="https://img.shields.io/badge/ArXiv-2306.03207-004088.svg"/></a>
               <a href="https://github.com/SYSU-STAR/H2-Mapping">
-              <img alt="Stars" src="https://img.shields.io/github/stars/SYSU-STAR/H2-Mapping" />
+              <img alt="Code" src="https://img.shields.io/github/stars/SYSU-STAR/H2-Mapping" />
               </a>
               <a href="https://youtu.be/oR9MlfL86Vw">
               <img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/>
@@ -50,7 +50,7 @@ author_profile: true
               <img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/>
               </a>
               <a href="https://drive.google.com/file/d/1_3_lrniZDIiH1B2F-hmgppPkYpbj0ZHW/view?usp=sharing">
-              <img alt="Revision" src="https://img.shields.io/badge/Paper-Revision-004088.svg"/>
+              <img alt="Revision" src="https://img.shields.io/badge/Paper-Revision-green.svg"/>
               </a>
             </td>
           </tr>
