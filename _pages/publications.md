@@ -84,10 +84,14 @@ author_profile: true
                 Kunyi Zhang, <strong>Chenxing Jiang</strong>, Jinghang Li, Sheng Yang, Teng Ma, Chao Xu, Fei Gao
               <br>
               <em>IEEE Robotics and Automation Letters, 2022.</em><br>
-              <a href="https://ieeexplore.ieee.org/document/9817624">Paper</a> /
-              <a href="https://arxiv.org/abs/2203.03149">Arxiv</a> /
-              <a href="https://github.com/zhangkunyi/DIDO/">Code</a> /
-              <a href="https://www.bilibili.com/video/BV1dU4y1Z773?spm_id_from=333.999.0.0">Video (Bilibili)</a>
+              <a href="https://ieeexplore.ieee.org/document/9817624"><img src="https://img.shields.io/badge/Paper-IEEE RAL-004088.svg"/></a>
+              <a href="https://arxiv.org/abs/2203.03149"><img src="https://img.shields.io/badge/ArXiv-2203.03149-004088.svg"/></a>
+              <a href="https://github.com/zhangkunyi/DIDO">
+              <img alt="Code" src="https://img.shields.io/github/stars/zhangkunyi/DIDO" />
+              </a>
+              <a href="https://www.bilibili.com/video/BV1dU4y1Z773?spm_id_from=333.999.0.0">
+              <img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/>
+              </a>
             </td>
           </tr>
     </table>
