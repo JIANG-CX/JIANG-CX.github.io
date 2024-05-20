@@ -33,6 +33,7 @@ Internship
   
 Selected Honors
 ======
+* **2023 IEEE Robotics and Automation Letters Best Paper Award**, 2024, IEEE
 * **Hong Kong PhD Fellowship Scheme (HKPFS)**, 2022, Hong Kong SAR
 * **Outstanding Graduates of Zhejiang Province**, 2022, Zhejiang Provincial Department of Education
 * **Outstanding Graduates of Zhejiang University**, 2022, Zhejiang University
