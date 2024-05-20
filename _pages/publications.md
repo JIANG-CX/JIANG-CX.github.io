@@ -37,13 +37,21 @@ author_profile: true
               <br>
                 <strong>Chenxing JIANG</strong>, Hanwen Zhang, Peize Liu, Zehuan Yu, Hui Cheng, Boyu Zhou, Shaojie Shen
               <br>
-              <em>IEEE Robotics and Automation Letters, 2023. <font color="red">(Best Paper Award)</font> </em><br>
-              <a href="https://ieeexplore.ieee.org/document/10243098">Paper</a> /
-              <a href="https://arxiv.org/abs/2306.03207">Arxiv</a> /
-              <a href="https://github.com/SYSU-STAR/H2-Mapping">Code</a> /
-              <a href="https://youtu.be/oR9MlfL86Vw">Video (Youtube)</a> /
-              <a href="https://www.bilibili.com/video/BV1Ku411W7j2">Video (Bilibili)</a> /
-              <a href="https://drive.google.com/file/d/1_3_lrniZDIiH1B2F-hmgppPkYpbj0ZHW/view?usp=sharing">Revision</a>
+              <em>IEEE Robotics and Automation Letters, 2023. <strong><font color="red">(Best Paper Award)</font></strong> </em><br>
+              <a href="https://ieeexplore.ieee.org/document/10243098"><img src="https://img.shields.io/badge/Paper-IEEE RAL-004088.svg"/></a>
+              <a href="https://arxiv.org/abs/2306.03207"><img src="https://img.shields.io/badge/ArXiv-2306.03207-004088.svg"/></a>
+              <a href="https://github.com/SYSU-STAR/H2-Mapping">
+              <img alt="Stars" src="https://img.shields.io/github/stars/SYSU-STAR/H2-Mapping" />
+              </a>
+              <a href="https://youtu.be/oR9MlfL86Vw">
+              <img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/>
+              </a>  
+              <a href="https://www.bilibili.com/video/BV1Ku411W7j2">
+              <img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/>
+              </a>
+              <a href="https://drive.google.com/file/d/1_3_lrniZDIiH1B2F-hmgppPkYpbj0ZHW/view?usp=sharing">
+              <img alt="Revision" src="https://img.shields.io/badge/Paper-Revision-004088.svg"/>
+              </a>
             </td>
           </tr>
     </table>
