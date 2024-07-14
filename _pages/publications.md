@@ -17,12 +17,29 @@ author_profile: true
               <br>
                 <strong>Chenxing JIANG</strong>, Yiming Luo, Boyu Zhou, Shaojie Shen
               <br>
-              <em>Submitted to IEEE Robotics and Automation Letters, 2024.</em><br>
+              <em>IEEE Robotics and Automation Letters, 2024.</em><br>
               <!-- <a href="https://ieeexplore.ieee.org/document/10243098">Paper</a> / -->
               <a href="https://arxiv.org/abs/2403.10821"><img src="https://img.shields.io/badge/ArXiv-2403.10821-004088.svg"/></a>
               <a href="https://github.com/SYSU-STAR/H3-Mapping/stargazers"><img alt="Code" src="https://img.shields.io/github/stars/SYSU-STAR/H3-Mapping" /></a>
               <a href="https://youtu.be/VtQGvuDZSec"><img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/></a>
               <a href="https://www.bilibili.com/video/BV1By421v7S8"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a>
+            </td>
+          </tr>
+    </table>
+      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/wing.png" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle>WING: Wheel-Inertial-Neural Odometry with Ground Manifold Constraints
+                </papertitle>
+              <br>
+                <strong>Chenxing Jiang</strong>, Kunyi Zhang, Sheng Yang, Shaojie Shen, Chao Xu, Fei Gao
+              <br>
+              <em>IEEE Transactions on Intelligent Vehicles, 2024.</em><br>
+              <!-- <a href="https://github.com/JIANG-CX/jiang-cx.github.io/blob/master/paper/WING_Wheel-Inertial-Neural_Odometry_with_Ground_Manifold_Constraints.pdf">Paper</a> /
+              <a href="https://github.com/zhangkunyi/zhangkunyi.github.io/blob/main/paper/ICRA2023_KyZhang.mp4">Video</a>  -->
             </td>
           </tr>
     </table>
@@ -55,23 +72,6 @@ author_profile: true
             </td>
           </tr>
     </table>
-    <!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
-            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-              <img src="../images/wing.png" alt="hpp" style="border-style: none" >
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <papertitle>WING: Wheel-Inertial-Neural Odometry with Ground Manifold Constraints
-                </papertitle>
-              <br>
-                Kunyi Zhang, <strong>Chenxing Jiang (co-first)</strong>, Sheng Yang, Shaojie Shen, Chao Xu, Fei Gao
-              <br>
-              <em>Submitted to IEEE Transactions on Intelligent Transportation Systems, 2023.</em><br>
-              <a href="https://github.com/JIANG-CX/jiang-cx.github.io/blob/master/paper/WING_Wheel-Inertial-Neural_Odometry_with_Ground_Manifold_Constraints.pdf">Paper</a> /
-              <a href="https://github.com/zhangkunyi/zhangkunyi.github.io/blob/main/paper/ICRA2023_KyZhang.mp4">Video</a> 
-            </td>
-          </tr>
-    </table> -->
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
