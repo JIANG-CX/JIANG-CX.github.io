@@ -38,6 +38,7 @@ author_profile: true
                 <strong>Chenxing Jiang</strong>, Kunyi Zhang, Sheng Yang, Shaojie Shen, Chao Xu, Fei Gao
               <br>
               <em>IEEE Transactions on Intelligent Vehicles, 2024.</em><br>
+              <a href="https://arxiv.org/abs/2407.10101"><img src="https://img.shields.io/badge/ArXiv-2407.10101-004088.svg"/></a>
               <!-- <a href="https://github.com/JIANG-CX/jiang-cx.github.io/blob/master/paper/WING_Wheel-Inertial-Neural_Odometry_with_Ground_Manifold_Constraints.pdf">Paper</a> /
               <a href="https://github.com/zhangkunyi/zhangkunyi.github.io/blob/main/paper/ICRA2023_KyZhang.mp4">Video</a>  -->
             </td>
