@@ -19,7 +19,7 @@ author_profile: true
               <br>
               <em>IEEE Robotics and Automation Letters, 2024.</em><br>
               <a href="https://ieeexplore.ieee.org/document/10602533"><img src="https://img.shields.io/badge/Paper-IEEE RAL-004088.svg"/></a>
-              <a href="https://arxiv.org/abs/2403.10821"><img src="https://img.shields.io/badge/ArXiv-2403.10821-004088.svg"/></a>
+              <a href="https://arxiv.org/abs/2403.10821"><img src="https://img.shields.io/badge/ArXiv-2403.10821-da282a.svg"/></a>
               <a href="https://github.com/SYSU-STAR/H3-Mapping/stargazers"><img alt="Code" src="https://img.shields.io/github/stars/SYSU-STAR/H3-Mapping" /></a>
               <a href="https://youtu.be/VtQGvuDZSec"><img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/></a>
               <a href="https://www.bilibili.com/video/BV1By421v7S8"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a>
@@ -38,8 +38,8 @@ author_profile: true
                 <strong>Chenxing Jiang</strong>, Kunyi Zhang, Sheng Yang, Shaojie Shen, Chao Xu, Fei Gao
               <br>
               <em>IEEE Transactions on Intelligent Vehicles, 2024.</em><br>
-              <a href="https://ieeexplore.ieee.org/document/10599809"><img src="https://img.shields.io/badge/Paper-IEEE TIVL-004088.svg"/></a>
-              <a href="https://arxiv.org/abs/2407.10101"><img src="https://img.shields.io/badge/ArXiv-2407.10101-004088.svg"/></a>
+              <a href="https://ieeexplore.ieee.org/document/10599809"><img src="https://img.shields.io/badge/Paper-IEEE TIV-004088.svg"/></a>
+              <a href="https://arxiv.org/abs/2407.10101"><img src="https://img.shields.io/badge/ArXiv-2407.10101-da282a.svg"/></a>
               <!-- <a href="https://github.com/JIANG-CX/jiang-cx.github.io/blob/master/paper/WING_Wheel-Inertial-Neural_Odometry_with_Ground_Manifold_Constraints.pdf">Paper</a> /
               <a href="https://github.com/zhangkunyi/zhangkunyi.github.io/blob/main/paper/ICRA2023_KyZhang.mp4">Video</a>  -->
             </td>
@@ -58,7 +58,7 @@ author_profile: true
               <br>
               <em>IEEE Robotics and Automation Letters, 2023. <strong><font color="red">(Best Paper Award)</font></strong> </em><br>
               <a href="https://ieeexplore.ieee.org/document/10243098"><img src="https://img.shields.io/badge/Paper-IEEE RAL-004088.svg"/></a>
-              <a href="https://arxiv.org/abs/2306.03207"><img src="https://img.shields.io/badge/ArXiv-2306.03207-004088.svg"/></a>
+              <a href="https://arxiv.org/abs/2306.03207"><img src="https://img.shields.io/badge/ArXiv-2306.03207-da282a.svg"/></a>
               <a href="https://github.com/SYSU-STAR/H2-Mapping">
               <img alt="Code" src="https://img.shields.io/github/stars/SYSU-STAR/H2-Mapping" />
               </a>
@@ -87,7 +87,7 @@ author_profile: true
               <br>
               <em>IEEE Robotics and Automation Letters, 2022.</em><br>
               <a href="https://ieeexplore.ieee.org/document/9817624"><img src="https://img.shields.io/badge/Paper-IEEE RAL-004088.svg"/></a>
-              <a href="https://arxiv.org/abs/2203.03149"><img src="https://img.shields.io/badge/ArXiv-2203.03149-004088.svg"/></a>
+              <a href="https://arxiv.org/abs/2203.03149"><img src="https://img.shields.io/badge/ArXiv-2203.03149-da282a.svg"/></a>
               <a href="https://github.com/zhangkunyi/DIDO">
               <img alt="Code" src="https://img.shields.io/github/stars/zhangkunyi/DIDO" />
               </a>
