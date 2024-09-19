@@ -48,7 +48,7 @@ Selected Honors
 Community Services
 ======
 * Conference reviewer: ICRA, IROS
-* Journal reviewer: RAL
+* Journal reviewer: RAL, TITS
 * Teaching Assistant: 
   * ELEC1010: Electronic and Information Technology, HKUST, 2022-2023 Spring
   * ELEC2400: Electronic Circuits, HKUST, 2023-2024 Fall
